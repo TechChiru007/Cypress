@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "Test": "npx cypress run --spec \"C:/Users/91941/Cypress/cypress/e2e/spec.cy.js\"",
-    "Smoke": "npx cypress run --reporter mochawesome --spec \"C:/Users/91941/Cypress/cypress/e2e/spec.cy.js\""
+    "Test": "npx cypress run --spec \"C:/Users/91941/Automation/Cypress/cypress/e2e/spec.cy.js\"",
+    "Smoke": "npx cypress run --reporter mochawesome --spec \"C:/Users/91941/Automation/Cypress/cypress/e2e/spec.cy.js\""
   },
   "keywords": [],
   "author": "",
