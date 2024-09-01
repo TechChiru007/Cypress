@@ -1,0 +1,17 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "Test": "npx cypress run --spec \"C:/Users/91941/Cypress/cypress/e2e/spec.cy.js\"",
+    "Smoke": "npx cypress run --reporter mochawesome --spec \"C:/Users/91941/Cypress/cypress/e2e/spec.cy.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.14.1",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
